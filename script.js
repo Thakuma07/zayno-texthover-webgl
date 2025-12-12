@@ -108,7 +108,7 @@ function initializeScene(texture) {
 
 function reloadTexture() {
     const newTexture = createTextTexture(
-        "zayno",
+        "zajno",
         "Blanquotey",
         null,
         "#ffffff",
